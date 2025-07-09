@@ -1,5 +1,12 @@
 # NeuroGlyph
 
+<p align="center">
+  <img src="assets/neuroglyph-logo.png" alt="NeuroGlyph Logo" width="200"/>
+  <br/>
+  <strong>NeuroGlyph: Language for Contextual & Relational Thought</strong>
+</p>
+
+
 NeuroGlyph is a symbolic communication protocol designed for structured, multimodal, and multi-agent dialogue. It combines task management, creative collaboration, open-ended research, and meta-dialogue within a compact and expressive language based on emoji-glyphs and structured tags.
 
 ## 🧠 What is NeuroGlyph?
