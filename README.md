@@ -1,7 +1,7 @@
 # NeuroGlyph
 
 <p align="center">
-  <img src="NeuroGlyph-Logo.png" alt="NeuroGlyph-Logo" width="300"/>
+  <img src="NeuroGlyph-Logo.png" alt="NeuroGlyph-Logo" width="500"/>
   <br/>
   <strong>NeuroGlyph: Language for Contextual & Relational Thought</strong>
 </p>
