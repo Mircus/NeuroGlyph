@@ -1,0 +1,85 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neuroglyph"
+version = "0.2.0"
+description = "A symbolic communication protocol for structured multi-agent dialogue"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Mirco and the NeuroGlyph collective"}
+]
+keywords = ["ai", "language", "protocol", "multi-agent", "dialogue", "symbolic"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "pydantic>=2.0.0",
+    "pyyaml>=6.0",
+    "regex>=2023.0.0",
+]
+
+[project.optional-dependencies]
+runtime = [
+    "langchain>=0.1.0",
+    "langchain-openai>=0.0.5",
+    "langchain-anthropic>=0.1.0",
+    "openai>=1.0.0",
+    "anthropic>=0.18.0",
+]
+viz = [
+    "networkx>=3.0",
+    "matplotlib>=3.7.0",
+    "graphviz>=0.20.0",
+]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "black>=23.0.0",
+    "mypy>=1.5.0",
+    "ruff>=0.1.0",
+]
+notebook = [
+    "jupyter>=1.0.0",
+    "ipywidgets>=8.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/Mircus/NeuroGlyph"
+Repository = "https://github.com/Mircus/NeuroGlyph"
+Documentation = "https://github.com/Mircus/NeuroGlyph/docs"
+Issues = "https://github.com/Mircus/NeuroGlyph/issues"
+
+[tool.black]
+line-length = 100
+target-version = ['py39', 'py310', 'py311']
+
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "I", "N", "W"]
+ignore = []
+
+[tool.mypy]
+python_version = "3.9"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --cov=neuroglyph --cov-report=html --cov-report=term-missing"
