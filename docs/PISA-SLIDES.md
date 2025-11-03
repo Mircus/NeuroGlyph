@@ -367,9 +367,111 @@ Ma l'emergenza creativa della relazione a chi appartiene?
 
 ---
 
-### 🎯 Per il Corso Pilota
+### 🎯 Per il Corso Pilota (speriamo nel 2026)
 
 Esploreremo insieme queste questioni,  
 *usando NeuroGlyph stesso* per dialogare sull'etica dell'IA!
+
+# **Costruiamo Insieme il Futuro**
+
+---
+
+ADRIANO SE VUOI LO METTO SENNO' LO TOLGO
+
+## 🚀 Corso Pilota Primavera 2025
+
+### **"Ermeneutica Digitale: Filosofare con l'IA"**
+
+---
+
+## 📋 Struttura del Corso (12 settimane)
+
+### **Modulo 1: Fondamenti** (3 settimane)
+- Gadamer, Ricoeur, Habermas: ermeneutica del dialogo
+- Filosofia dell'IA: da Turing a oggi
+- Introduzione pratica a NeuroGlyph
+
+### **Modulo 2: Applicazioni** (6 settimane)
+- **Settimane 4-5**: Dialoghi socratici su temi classici  
+  (mente-corpo, libero arbitrio, identità personale)
+- **Settimane 6-8**: Ricerca collaborativa human-IA  
+  (ogni studente sviluppa una domanda di ricerca)
+- **Settimane 9**: Meta-riflessione  
+  (usiamo NeuroGlyph per riflettere su NeuroGlyph!)
+
+### **Modulo 3: Progetto Finale** (3 settimane)
+- Paper filosofico co-sviluppato con IA  
+- O: analisi critica di un dialogo NeuroGlyph
+- Presentazione e peer review
+
+---
+
+## 👥 Dettagli Pratici
+
+- **Posti**: 15 studenti (magistrale)
+- **Prerequisiti**: Corso di ermeneutica o filosofia del linguaggio
+- **Formato**: 1 lezione (2h) + 1 lab NeuroGlyph (2h) a settimana
+- **Crediti**: 6 CFU
+- **Piattaforma**: HyRI (accesso gratuito per il pilota)
+
+---
+
+## 🎯 Cosa Otterrete
+
+### **Per il vostro percorso:**
+✅ Competenza unica (filosofia + IA)  
+✅ Materiale per tesi magistrale/dottorato  
+✅ Network con ricercatori internazionali
+
+### **Per la comunità filosofica:**
+✅ Contributo a nuovo campo di ricerca  
+✅ Pubblicazione su atti del progetto  
+✅ Modellare il futuro del dialogo umano-IA
+
+---
+
+## 📝 Come Partecipare
+
+**Entro 15 gennaio 2025:**
+1. Email a [email.prof]@unipi.it
+2. Oggetto: "Candidatura Corso Pilota NeuroGlyph"
+3. Include:
+   - CV accademico breve
+   - Lettera motivazionale (1 pagina)
+   - Domanda di ricerca che vorresti esplorare
+
+**Selezione**: 20 gennaio  
+**Inizio corso**: 10 febbraio
+
+---
+
+## 💫 Una Sfida e un Invito
+
+### La Sfida:
+> "Sarete tra i primi filosofi al mondo  
+> a plasmare il modo in cui umani e IA  
+> dialogano autenticamente"
+
+### L'Invito:
+> "Non come utenti passivi della tecnologia,  
+> ma come **architetti** del nuovo spazio ermeneutico"
+
+---
+
+## 🙏 Grazie!
+
+**Domande? Riflessioni? Perplessità?**
+
+*"Il dialogo autentico inizia con l'apertura alla questione"*
+
+---
+
+**Contatti**:  
+📧 [email]@unipi.it  
+🌐 hyri.ai/pisa-pilot  
+📄 White paper completo disponibile online
+
+
+
 
 
