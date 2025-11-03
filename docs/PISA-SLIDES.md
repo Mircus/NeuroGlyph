@@ -327,3 +327,49 @@ Risultato: Framework integrativo
 | Verificabilità | ✅ Processo completamente tracciabile |
 
 
+# **Responsabilità e Authorship**
+
+---
+
+## ⚖️ La Domanda Urgente
+
+> Se un'idea emerge dal dialogo umano-IA,  
+> **chi ne è l'autore**?
+
+---
+
+## 🤔 Tre Posizioni
+
+### 1️⃣ **Posizione Strumentale**
+- L'IA è uno strumento (come Word)
+- Autore: solo l'umano
+
+### 2️⃣ **Posizione Collaborativa** ← *NeuroGlyph*
+- L'authorship è **distribuito** e **esplicito**
+- I token NeuroGlyph **tracciano** chi contribuisce cosa
+- Esempio: `📝: concetto_X -> ia_proposta + studente_raffinamento`
+
+### 3️⃣ **Posizione Emergentista**
+- Alcune idee sono **emergenti** dalla relazione
+- Non attribuibili singolarmente
+- Richiede nuove categorie di authorship
+
+---
+
+## 💡 NeuroGlyph come Soluzione Parziale
+
+✅ **Tracciabilità**: Ogni contributo è marcato  
+✅ **Trasparenza**: Il processo è visibile  
+✅ **Responsabilità**: Chiaro chi ha validato cosa
+
+❓ **Domanda aperta**: 
+Ma l'emergenza creativa della relazione a chi appartiene?
+
+---
+
+### 🎯 Per il Corso Pilota
+
+Esploreremo insieme queste questioni,  
+*usando NeuroGlyph stesso* per dialogare sull'etica dell'IA!
+
+
