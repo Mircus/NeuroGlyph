@@ -125,7 +125,35 @@ Un **protocollo ermeneutico** che rende espliciti:
 > → Non stiamo solo *descrivendo* il dialogo  
 > → Stiamo *costituendo* lo spazio ermeneutico stesso
 
+# **HyRI: Dove Avviene il Dialogo**
 
+---
+
+## 🏛️ Non un chatbot, ma uno **spazio condiviso**
+
+### La piattaforma che implementa NeuroGlyph:
+
+✅ **Interpreta** i token in tempo reale  
+✅ **Coordina** agenti IA specializzati (Socratica, Bibliografica, etc.)  
+✅ **Mantiene memoria** dei progetti collaborativi  
+✅ **Garantisce trasparenza** di ogni interazione
+
+---
+
+## 💡 In 10 Secondi
+```
+Tu + Professore + IA Socratica
+        ↓
+    [HyRI Platform]
+        ↓
+Dialogo strutturato con NeuroGlyph
+        ↓
+📦 Comprensione condivisa persistente
+```
+
+---
+
+### ⏭️ Vediamolo in azione...
 
 # **🎭 Demo Live: NeuroGlyph in Azione**
 
