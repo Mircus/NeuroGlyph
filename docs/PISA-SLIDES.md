@@ -1,4 +1,4 @@
-# NeuroGlyph
+# NeuroGlyph & HYRI
 ## *Rendere visibile l'invisibile del dialogo con l'IA*
 
 ---
