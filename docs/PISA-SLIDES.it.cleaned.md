@@ -413,7 +413,7 @@ Esploreremo insieme queste questioni,
 
 ADRIANO SE VUOI LO METTO SENNO' LO TOLGO
 
-## 🚀 Corso Pilota Primavera 2025
+## 🚀 Corso Pilota Primavera 2026 ?
 
 ### **"Ermeneutica Digitale: Filosofare con l'IA"**
 
