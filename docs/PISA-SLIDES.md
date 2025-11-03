@@ -16,8 +16,7 @@ Ogni tuo pensiero emerge in uno *spazio condiviso* di significato.
 *"L'intelligenza non abita nelle menti separate,  
 ma nello spazio relazionale tra di esse"*
 
-Università di Pisa - Dipartimento di Filosofia  
-Progetto Pilota 2025
+
 
 # **La Crisi Ermeneutica dell'IA**
 
@@ -41,9 +40,6 @@ IA: [300 parole di testo]
 
 ## 💡 Conseguenza Filosofica
 
-> *"Senza esplicitare l'orizzonte del dialogo,  
-> non c'è vera comprensione, solo trasmissione di informazioni"*  
-> — *Gadamer, Verità e Metodo*
 
 **Il problema**: L'IA simula il dialogo senza struttura ermeneutica
 
@@ -82,7 +78,7 @@ Un **protocollo ermeneutico** che rende espliciti:
 
 ---
 
-## 💫 Tre Principi Gadameriani
+## 💫 Tre Principi Ermeneutici
 
 1. **Apertura alla questione** → Ogni intenzione è esplicita
 2. **Fusione degli orizzonti** → Contesti dichiarati e negoziati
@@ -105,7 +101,7 @@ Un **protocollo ermeneutico** che rende espliciti:
 
 ---
 
-## 🔄 Operazioni Meta-Ermeneutiche
+## 🔄 Operazioni Meta-Contestuali
 ```
 🔍 /zoom → Modificare il livello di analisi
            (dalla fenomenologia alla neuroscienza)
