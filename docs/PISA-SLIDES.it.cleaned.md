@@ -453,7 +453,7 @@ Ma l'emergenza creativa della relazione a chi appartiene?
 ## 📝 Come Partecipare
 
 **Entro 15 gennaio 2025:**
-1. Email a [email.prof]@unipi.it
+1. Email a adriano.fabris@unipi.it
 2. Oggetto: " Corso Pilota Ermeneutica Digitale"
 
 ---
