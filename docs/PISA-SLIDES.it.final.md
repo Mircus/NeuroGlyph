@@ -167,7 +167,7 @@ Dialogo strutturato con NeuroGlyph
 
 ### ⏭️ 
 
-## Architettura (1 slide)
+## Architettura 
 
 NeuroGlyph (spec dei token) → Parser → Runtime di dialogo → Agenti (HyRI)
 
@@ -186,13 +186,18 @@ Vediamolo in azione...
 
 **Setup del dialogo:**
 ```
-🧠: studente_pisa, ia_socratica, professore
-📚: machine_consciousness_vs_human_consciousness
-🎯: seminario_magistrale_interattivo
-💡: distinguere_simulazione_da_esperienza_autentica
-📦: framework_concettuale_per_tesi
-🎭: ia_socratica -> ruolo_questionante_maieutico
-⏰: 15_minuti
+## Mission Setup
+- **Objective:** Produce a 1-page mini-proposal on 'Superoscillations for Non‑invasive Biomedical Imaging' with prior art, 3 hypotheses, minimal experiment plan, ethics, 5–8 refs.
+- **Success Metric:** All sections present + ≥5 real references; Curator status=ACHIEVED.
+- **Focus:** superoscillations_biomedical_imaging
+- **Context:** university_demo_pisa_streamlit_local
+- **Timeline:** 20 minutes demo
+
+## Session Status
+- **Handshake:** GPT: ✅ | Claude: ✅
+- **Achieved:** ✅
+
+---
 ```
 
 ---
