@@ -480,9 +480,10 @@ Ma l'emergenza creativa della relazione a chi appartiene?
 ---
 
 **Contatti**:  
-📧 mirco@holomathics.com  
+📧 adriano.fabris@unipi.it &  mirco@holomathics.com  
 🌐 pagina HYRI (in preparazione) 
 📄 White paper completo disponibile online in Dicembre 2025
+🔗 GitHub: https://github.com/Mircus/NeuroGlyph
 
 
 
@@ -499,7 +500,4 @@ Ma l'emergenza creativa della relazione a chi appartiene?
 - Orchestrazione agentica trasparente (glass box)
 
 
-## Contatti
 
-- 📧 mirco@holomathics.com
-- 🔗 GitHub: https://github.com/Mircus/NeuroGlyph
