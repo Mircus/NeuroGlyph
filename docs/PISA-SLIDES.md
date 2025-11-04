@@ -91,7 +91,10 @@ Un **protocollo ermeneutico** che rende espliciti:
 
 ---
 
-## 💫 Tre Principi Ermeneutici
+## 💫 Tre Principi
+
+<img width="294" height="425" alt="image" src="https://github.com/user-attachments/assets/487c5e8b-edc6-4859-bf34-c7ccf60f81f2" />
+
 
 1. **Apertura alla questione** → Ogni intenzione è esplicita
 2. **Fusione degli orizzonti** → Contesti dichiarati e negoziati
