@@ -415,10 +415,8 @@ Ma l'emergenza creativa della relazione a chi appartiene?
 
 ---
 
-### 🎯 Un  Corso Pilota (speriamo nel 2026)
 
-Esploreremo insieme queste questioni,  
-*usando NeuroGlyph stesso* per dialogare sull'etica dell'IA!
+
 
 # **Costruiamo Insieme il Futuro**
 
@@ -456,7 +454,7 @@ Esploreremo insieme queste questioni,
 
 **Entro 15 gennaio 2025:**
 1. Email a [email.prof]@unipi.it
-2. Oggetto: "Candidatura Corso Pilota Ermeneutica Digitale"
+2. Oggetto: " Corso Pilota Ermeneutica Digitale"
 
 ---
 
@@ -488,10 +486,7 @@ Esploreremo insieme queste questioni,
 
 
 
-
-
-
-## Cosa è / Cosa NON è (1 slide)
+## QUICK RECAP: Cosa è / Cosa NON è
 
 **NON è**:
 - Macro di prompt
@@ -502,11 +497,6 @@ Esploreremo insieme queste questioni,
 - Linguaggio relazionale di token + runtime
 - Intenzioni, ruoli e orizzonti espliciti
 - Orchestrazione agentica trasparente (glass box)
-
-
-
-
-
 
 
 ## Contatti
