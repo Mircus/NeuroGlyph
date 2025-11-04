@@ -34,7 +34,7 @@ IA: [300 parole di testo]
 ### Ma mancano le domande chiave:
 - ❓ Da quale **orizzonte** l’IA sta parlando?
 - ❓ Quale **pre-comprensione** porta nel dialogo?
-- ❓ Qual è la sua **intenzione ermeneutica**?
+- ❓ Qual è la sua **intenzione**?
 - ❓ Come avviene la **fusione degli orizzonti**?
 
 ---
