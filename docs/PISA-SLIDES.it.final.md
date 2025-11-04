@@ -204,9 +204,6 @@ Vediamolo in azione...
 
 ## 🔴 LIVE: Esploreremo insieme
 
-**Domanda iniziale** (come se foste voi):
-> "Se un’IA descrive perfettamente i qualia del rosso,  
-> sta veramente *esperendo* il rosso?"
 
 **Vedremo**:
 1. Come l’IA **esplicita** il suo orizzonte interpretativo
@@ -424,8 +421,6 @@ Ma l’emergenza creativa della relazione a chi appartiene?
 ---
 
 
-
-
 # **Costruiamo Insieme il Futuro**
 
 --
@@ -451,7 +446,7 @@ Ma l’emergenza creativa della relazione a chi appartiene?
 ✅ Materiale per tesi magistrale/dottorato  
 ✅ Network con ricercatori internazionali
 
-### **Per la comunità filosofica:**
+### **Per la comunità:**
 ✅ Contributo a nuovo campo di ricerca  
 ✅ Pubblicazione su atti del progetto  
 ✅ Modellare il futuro del dialogo umano-IA
@@ -460,7 +455,7 @@ Ma l’emergenza creativa della relazione a chi appartiene?
 
 ## 📝 Come Partecipare
 
-**Entro 15 gennaio 2026:**
+**Entro 15 dicembre 2025:**
 1. Email a adriano.fabris@unipi.it
 2. Oggetto: " Corso Pilota Ermeneutica Digitale"
 
