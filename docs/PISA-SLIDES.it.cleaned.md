@@ -131,7 +131,7 @@ Un **protocollo ermeneutico** che rende espliciti:
 > → Non stiamo solo *descrivendo* il dialogo  
 > → Stiamo *costituendo* lo spazio ermeneutico stesso
 
-# **HyRI: UNa Piattaforma per La Intellgenza Rel-Azionale Ibrida**
+# **HyRI: Una Piattaforma per La Intelligenza Rel-Azionale Ibrida**
 
 ---
 
