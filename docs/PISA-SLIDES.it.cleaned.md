@@ -15,6 +15,7 @@ Ogni tuo pensiero emerge in uno *spazio condiviso* di significato.
 
 *"L'intelligenza non abita nelle menti separate,  
 ma nello spazio relazionale tra di esse"*
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/91ee8ffe-aef9-48dd-9303-4eca9778995d" />
 
 
 
