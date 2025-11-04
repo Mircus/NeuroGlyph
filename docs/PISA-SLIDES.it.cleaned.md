@@ -57,6 +57,9 @@ E' un buon punto di partenza, aggiunge  un contesto, ma ci serve di piu'
 
 # **NeuroGlyph: Un Linguaggio per la Relazione**
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bb21fd1a-b50b-439d-a4ed-b91a977bd194" />
+
+
 ---
 
 ## 🧬 Definizione Filosofica
