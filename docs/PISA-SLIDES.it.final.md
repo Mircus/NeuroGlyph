@@ -41,7 +41,7 @@ IA: [300 parole di testo]
 
 
 Ora si usa il cosiddetto
-**Retrieval augmented generation (RAG)**
+**Retrieval Augmented Generation (RAG)**
 (vedi https://aws.amazon.com/what-is/retrieval-augmented-generation/ )
 E' un buon punto di partenza, aggiunge  un contesto, ma ci serve di piu'
 
