@@ -422,6 +422,7 @@ Ma l’emergenza creativa della relazione a chi appartiene?
 
 
 # **Costruiamo Insieme il Futuro**
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/703e0700-0e55-4abb-9279-274c32758a49" />
 
 --
 
